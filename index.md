@@ -22,6 +22,7 @@ Contents:
 * [Schedule](#schedule)   
 * [Resources](#resources)
 * [Policies](#policies)
+
 # Territory Acknowledgement 
 
 We acknowledge and respect the L&#601;k&#787;&#695;&#601;&#331;&#601;n (Songhees and X&#695;seps&#601;m / Esquimalt) Peoples on whose territory the university stands, and the L&#601;k&#787;&#695;&#601;&#331;&#601;n and W&#817;S&#193;NE&#262; Peoples whose historical relationships with the land continue to this day.
@@ -79,6 +80,7 @@ You do *not* need to purchase a textbook or any primary sources for this course,
 * Point you to resources available online, 
 * Accept all your assignments (please don't submit anything to me by email), and
 * Provide feedback on those assignments and mark them.
+
 # Assignments
 
 There are no exams, quizzes, presentations, or group projects in this course.
@@ -169,12 +171,14 @@ Before class, please read the following handouts:
 
 1. "Understanding Media" and 
 2. "Paradigms of Media." 
+
 ## M Jan. 26: Images  
 
 Before class, please read the following handouts: 
 
 1. "Images" and 
 2. "Comics."
+
 ## Th Jan. 29: Text
 
 Before class, please read the "Text" handout. 
@@ -198,7 +202,7 @@ Before class, please read the "Interfaces" handout.
 
 *Please email me if you have any questions or concerns about the feedback (global or individual) we provided on Worksheet 1.* 
 
-*Today is the last session covered by Worksheet 2, which is due by Monday, February 23rd at 10am. 
+*Today is the last session covered by Worksheet 2, which is due by Monday, February 23rd at 10am.* 
 ## MODULE 3: Approaches (ten sessions) 
 
 This module begins on Thursday, February 12th and ends on Thursday, March 26th. 
@@ -307,6 +311,7 @@ The following advocacy groups may be relevant to your life as a student here at 
 * [The Society for Students with a Disability (SSD)](https://uvicssd.ca/), 
 * [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/), and 
 * [UVSS Pride Collective](https://pridecollective.ca/).
+
 # Policies 
 
 Here are the policies for this course alongside several UVic policies. Please let me know if anything is unclear, ignorant, or mistaken. I'll correct it. 
