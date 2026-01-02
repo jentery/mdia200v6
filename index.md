@@ -60,7 +60,7 @@ Although I will not be attending MDIA 200 this term, I will be marking some of y
 
 You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including [Brightspace](https://bright.uvic.ca/)), a camera, and a microphone. 
 
-Handouts*: I produce my own handouts for this course and circulate them as PDFs in Brightspace. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a Media Studies textbook. 
+*Handouts*: I produce my own handouts for this course and circulate them as PDFs in Brightspace. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a Media Studies textbook. 
 
 *Slide Decks*: I create HTML slide decks for most class sessions and link to them in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
 
@@ -90,9 +90,9 @@ I am asking you to complete five assignments this term.
 * **[Worksheet 3](https://jentery.github.io/mdia200v6/worksheet3.html)**: 25% of your final grade (due by Thursday, March 26th at 10am)  
 * **[Portfolio](https://jentery.github.io/mdia200v6/portfolio.html)**: 25% of your final grade (due by Monday, April 13th at 10am)   
 
-*Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video), and I will encourage you to use class time to take notes and draft your responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. The worksheets and their grading rubrics are posted online (see links above). You should download them, complete them in your word processor of choice (e.g., Word, Docs, Pages), and submit them via Brightspace. 
-
 *Exit tickets*: At the end of twenty different class sessions, I will ask you to use a notecard (which I will provide) to respond to two prompts. These prompts will ask you to share what you're learning from class sessions, what you hope to learn, and what questions you have. You will submit your responses (on the notecard) to me by the end of class. You should submit a total of fourteen exit tickets (meaning you don't need to submit one at the end of every class), and we will track your submissions in Brightspace. See the schedule below for sessions *without* an exit ticket. 
+
+*Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video), and I will encourage you to use class time to take notes and draft your responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. The worksheets and their grading rubrics are posted online (see links above). You should download them, complete them in your word processor of choice (e.g., Word, Docs, Pages), and submit them via Brightspace. 
 
 *Portfolio*: You'll conclude MDIA 200 by producing a portfolio that documents what you learned in this course, reflects on that learning, and communicates its significance to someone in particular (e.g., a professor, student, friend, or family member).  
 
