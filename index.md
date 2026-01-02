@@ -84,7 +84,7 @@ There are no exams, quizzes, presentations, or group projects in this course.
 
 I am asking you to complete five assignments this term. 
 
-* [**Exit tickets**](https://jentery.github.io/mdia200v6/exittickets.html): 10% of your final grade (fourteen of them, each by the end of class on the day prompted)  
+* [**Exit tickets**](https://jentery.github.io/mdia200v6/exittickets.html): 10% of your final grade (fourteen of them, each due by the end of class on the day prompted)  
 * **[Worksheet 1](https://jentery.github.io/mdia200v6/worksheet1.html)**: 20% of your final grade (due by Thursday, January 29th at 10am)  
 * **[Worksheet 2](https://jentery.github.io/mdia200v6/worksheet2.html)**: 20% of your final grade (due by Monday, February 23rd at 10am)
 * **[Worksheet 3](https://jentery.github.io/mdia200v6/worksheet3.html)**: 25% of your final grade (due by Thursday, March 26th at 10am)  
