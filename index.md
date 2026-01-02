@@ -5,10 +5,7 @@
 👨🏻‍🏫 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 🗄️ Office hours: M and Th, 11:45am-12:45pm, in CLE D331    
 ✅ Teaching assistant (marking): Maya Wei Yan Linsley (she | any)
-
-View this document in [PDF](mdia200Spring2026Syllabus.pdf) (coming soon). 
-
-*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
+⬇️ Download this document in [PDF](mdia200Spring2026Syllabus.pdf) (licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
 
 Contents: 
 
@@ -39,11 +36,11 @@ The course counts toward UVic's new [Media Studies](https://www.uvic.ca/calendar
 
 I designed this course for you to: 
 
-☑️  Build a vocabulary for understanding media. This means we'll identify the particulars of audio, images, text, video, and interfaces as they pertain to content creation and media analysis.  
-☑️  Practice techniques for engaging media. This means we'll experiment with different critical approaches to media in the 21st century. 
-☑️  Account for context and culture in the analysis of media across the globe. This means we'll consider how, where, when, by whom, for whom, and under what assumptions media are made, interpreted, circulated, and preserved.  
-☑️  Respond directly to classroom activities and lectures about media. This means you'll complete twelve exit tickets and three worksheets to demonstrate what you're learning.  
-☑️  Reflect on your learning and communicate its applications to the study and production of media today. This reflection will assume the form of a portfolio, which will be your final project in this course. 
+* Build a vocabulary for understanding media. This means we'll identify the particulars of audio, images, text, video, and interfaces as they pertain to content creation and media analysis.  
+* Practice techniques for engaging media. This means we'll experiment with different critical approaches to media in the 21st century. 
+* Account for context and culture in the analysis of media across the globe. This means we'll consider how, where, when, by whom, for whom, and under what assumptions media are made, interpreted, circulated, and preserved.  
+* Respond directly to classroom activities and lectures about media. This means you'll complete fourteen exit tickets and three worksheets to demonstrate what you're learning.  
+* Reflect on your learning and communicate its applications to the study and production of media today. This reflection will assume the form of a portfolio, which will be your final project in this course. 
 
 I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to media practice. I will not teach film or music. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film) and the [School of Music](https://www.uvic.ca/finearts/music/index.php). I also won't teach professional communication or journalism. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/) and [Professional Writing](https://www.uvic.ca/finearts/writing/undergraduate/programs/pro-writing/index.php), respectively. 
 # About Us 
@@ -63,17 +60,17 @@ Although I will not be attending MDIA 200 this term, I will be marking some of y
 
 You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including [Brightspace](https://bright.uvic.ca/)), a camera, and a microphone. 
 
-📝 *Handouts*: I produce my own handouts for this course and circulate them as PDFs in Brightspace. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a Media Studies textbook. 
+Handouts*: I produce my own handouts for this course and circulate them as PDFs in Brightspace. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a Media Studies textbook. 
 
-📽️ *Slide Decks*: I create HTML slide decks for most class sessions and link to them in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
+*Slide Decks*: I create HTML slide decks for most class sessions and link to them in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
 
-📚 *Source Materials*: My slide decks will often contain source materials or links to them. We'll discuss these sources in class to apply what you're learning from the weekly handouts. Examples of sources we'll study this term include the browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel; the comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine; and the stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett.
+*Source Materials*: My slide decks will often contain source materials or links to them. We'll discuss these sources in class to apply what you're learning from the weekly handouts. Examples of sources we'll study this term include the browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel; the comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine; and the stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett.
 
-⚠️ *Content Warnings*: I'll include content warnings for materials before I share or screen them in class. 
+*Content Warnings*: I'll include content warnings for materials before I share or screen them in class. 
 
-🎤 *Recordings*: I do not plan to record our class sessions; however, you are welcome to record audio for private access, study, and note-taking.
+*Recordings*: I do not plan to record our class sessions; however, you are welcome to record audio for private access, study, and note-taking.
  
-🛜 *Brightspace*: I'll use the course Brightspace to: 
+*Brightspace*: I'll use the course Brightspace to: 
 
 * Circulate a class announcement each week to help you plan for what's next,  
 * Share weekly handouts, my slides, and any primary sources we study in class,  
@@ -87,21 +84,21 @@ There are no exams, quizzes, presentations, or group projects in this course.
 
 I am asking you to complete five assignments this term. 
 
-1️⃣ [**Exit tickets**](https://jentery.github.io/mdia200v6/exittickets.html): 10% of your final grade (twelve due, each by the end of class on the day prompted)  
-2️⃣ **[Worksheet 1](https://jentery.github.io/mdia200v6/worksheet1.html)**: 20% of your final grade (due by Thursday, January 29th at 10am)  
-3️⃣ **[Worksheet 2](https://jentery.github.io/mdia200v6/worksheet2.html)**: 20% of your final grade (due by Monday, February 23rd at 10am)  
-4️⃣ **[Worksheet 3](https://jentery.github.io/mdia200v6/worksheet3.html)**: 25% of your final grade (due by Thursday, March 26th at 10am)  
-5️⃣ **[Portfolio](https://jentery.github.io/mdia200v6/portfolio.html)**: 25% of your final grade (due by Monday, April 13th at 10am)   
+* [**Exit tickets**](https://jentery.github.io/mdia200v6/exittickets.html): 10% of your final grade (fourteen of them, each by the end of class on the day prompted)  
+* **[Worksheet 1](https://jentery.github.io/mdia200v6/worksheet1.html)**: 20% of your final grade (due by Thursday, January 29th at 10am)  
+* **[Worksheet 2](https://jentery.github.io/mdia200v6/worksheet2.html)**: 20% of your final grade (due by Monday, February 23rd at 10am)
+* **[Worksheet 3](https://jentery.github.io/mdia200v6/worksheet3.html)**: 25% of your final grade (due by Thursday, March 26th at 10am)  
+* **[Portfolio](https://jentery.github.io/mdia200v6/portfolio.html)**: 25% of your final grade (due by Monday, April 13th at 10am)   
 
-🧐 *Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video), and I will encourage you to use class time to take notes and draft your responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. The worksheets and their grading rubrics are posted online (see links above). You should download them, complete them in your word processor of choice (e.g., Word, Docs, Pages), and submit them via Brightspace. 
+*Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video), and I will encourage you to use class time to take notes and draft your responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. The worksheets and their grading rubrics are posted online (see links above). You should download them, complete them in your word processor of choice (e.g., Word, Docs, Pages), and submit them via Brightspace. 
 
-👋🏻 *Exit tickets*: At the end of twenty different class sessions, I will ask you to use a notecard (which I will provide) to respond to two prompts. These prompts will ask you to share what you're learning from class sessions, what you hope to learn, and what questions you have. You will submit your responses (on the notecard) to me by the end of class. You should submit a total of twelve exit tickets (meaning you don't need to submit one at the end of every class), and we will track your submissions in Brightspace. See the schedule below for sessions *without* an exit ticket. 
+*Exit tickets*: At the end of twenty different class sessions, I will ask you to use a notecard (which I will provide) to respond to two prompts. These prompts will ask you to share what you're learning from class sessions, what you hope to learn, and what questions you have. You will submit your responses (on the notecard) to me by the end of class. You should submit a total of fourteen exit tickets (meaning you don't need to submit one at the end of every class), and we will track your submissions in Brightspace. See the schedule below for sessions *without* an exit ticket. 
 
-💼 *Portfolio*: You'll conclude MDIA 200 by producing a portfolio that documents what you learned in this course, reflects on that learning, and communicates its significance to someone in particular (e.g., a professor, student, friend, or family member).  
+*Portfolio*: You'll conclude MDIA 200 by producing a portfolio that documents what you learned in this course, reflects on that learning, and communicates its significance to someone in particular (e.g., a professor, student, friend, or family member).  
 
-🛜 *Brightspace*: Please use Brightspace to submit your worksheets and portfolio. You do not need to purchase any software to use Brightspace, but you will need your UVic NetLink ID, access to the internet, and a computer. I cannot accept assignments (including exit tickets) by email.
+*Brightspace*: Please use Brightspace to submit your worksheets and portfolio. You do not need to purchase any software to use Brightspace, but you will need your UVic NetLink ID, access to the internet, and a computer. I cannot accept assignments (including exit tickets) by email.
 
-💬 *Feedback*: Maya and I will provide brief and focused feedback on worksheets according to their grading rubrics. Please email me (Jentery, not Maya) or schedule an appointment (F2F or Zoom) to discuss the feedback. Again, I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
+*Feedback*: Maya and I will provide brief and focused feedback on worksheets according to their grading rubrics. Please email me (Jentery, not Maya) or schedule an appointment (F2F or Zoom) to discuss the feedback. Again, I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
 
 # Workload
 
