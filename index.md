@@ -87,11 +87,11 @@ There are no exams, quizzes, presentations, or group projects in this course.
 
 I am asking you to complete five assignments this term. 
 
-1️⃣ [**Exit tickets**](https://jentery.github.io/mdia200v6/exittickets.html): 10% of your final grade (twelve due, each by the end of class on the day prompted)
-2️⃣ **[Worksheet 1](https://jentery.github.io/mdia200v6/worksheet1.html)**: 20% of your final grade (due by Thursday, January 29th at 10am)
-3️⃣ **[Worksheet 2](https://jentery.github.io/mdia200v6/worksheet2.html)**: 20% of your final grade (due by Monday, February 23rd at 10am) 
-4️⃣ **[Worksheet 3](https://jentery.github.io/mdia200v6/worksheet3.html)**: 25% of your final grade (due by Thursday, March 26th at 10am)
-5️⃣ **[Portfolio](https://jentery.github.io/mdia200v6/portfolio.html)**: 25% of your final grade (due by Monday, April 13th at 10am)
+1️⃣ [**Exit tickets**](https://jentery.github.io/mdia200v6/exittickets.html): 10% of your final grade (twelve due, each by the end of class on the day prompted)  
+2️⃣ **[Worksheet 1](https://jentery.github.io/mdia200v6/worksheet1.html)**: 20% of your final grade (due by Thursday, January 29th at 10am)  
+3️⃣ **[Worksheet 2](https://jentery.github.io/mdia200v6/worksheet2.html)**: 20% of your final grade (due by Monday, February 23rd at 10am)  
+4️⃣ **[Worksheet 3](https://jentery.github.io/mdia200v6/worksheet3.html)**: 25% of your final grade (due by Thursday, March 26th at 10am)  
+5️⃣ **[Portfolio](https://jentery.github.io/mdia200v6/portfolio.html)**: 25% of your final grade (due by Monday, April 13th at 10am)   
 
 🧐 *Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video), and I will encourage you to use class time to take notes and draft your responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. The worksheets and their grading rubrics are posted online (see links above). You should download them, complete them in your word processor of choice (e.g., Word, Docs, Pages), and submit them via Brightspace. 
 
