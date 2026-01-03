@@ -39,7 +39,7 @@ I designed this course for you to:
 * Build a vocabulary for understanding media. This means we'll identify the particulars of audio, images, text, video, and interfaces as they pertain to content creation and media analysis.  
 * Practice techniques for engaging media. This means we'll experiment with different critical approaches to media in the 21st century. 
 * Account for context and culture in the analysis of media across the globe. This means we'll consider how, where, when, by whom, for whom, and under what assumptions media are made, interpreted, circulated, and preserved.  
-* Respond directly to classroom activities and lectures about media. This means you'll complete fourteen exit tickets and three worksheets to demonstrate what you're learning.  
+* Respond directly to classroom activities and lectures about media. This means you'll complete fourteen exit tickets and three worksheets to demonstrate and apply what you're learning.  
 * Reflect on your learning and communicate its applications to the study and production of media today. This reflection will assume the form of a portfolio, which will be your final project in this course. 
 
 I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to media practice. I will not teach film or music. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film) and the [School of Music](https://www.uvic.ca/finearts/music/index.php). I also won't teach professional communication or journalism. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/) and [Professional Writing](https://www.uvic.ca/finearts/writing/undergraduate/programs/pro-writing/index.php), respectively. 
@@ -47,36 +47,34 @@ I will assume you've no experience in Media Studies, and I will focus on critica
 
 My name is Jentery Sayers (he/him). I skip a syllable and say it in two: "JEN-tree." You can call me Jentery, Doctor Sayers, or Professor Sayers. 
 
-I spend 8.16% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I teach courses for UVic Media Studies and direct the Media Studies program. I like to play TTRPGs, drums, guitar, basketball, and soccer in my spare time. I also do my best to maintain a [portfolio](https://jntry.work/) of my work. 
+I spend 8.16% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I relocated to Victoria the summer I received my PhD, and I currently direct UVic's Media Studies program. I like to play TTRPGs, drums, guitar, and basketball in my spare time. I also do my best to maintain a [portfolio](https://jntry.work/) of my work. 
 
 You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clearihue D331. My office hours are Monday and Thursday, 11:45am-12:45pm, or by appointment, in CLE D331. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays.
 
 Hi! I'm Maya (she/any), your TA (marking) for the term. I'm an English MA student and grad from UVic's Honours English BA.
  
-There was a time when I, too, spent 8.16% of the day looking for my glasses, but now I can't look for anything if they're not on my face. I partly attribute my rapidly deteriorating eyesight to the amount of time I've spent reading fanfiction on my phone. Alas, it will never get better, as my area of research is fan studies.
- 
-Although I will not be attending MDIA 200 this term, I will be marking some of your assignments. You can email me at [mlinsley@uvic.ca](mailto:mlinsley@uvic.ca).
+There was a time when I, too, spent 8.16% of the day looking for my glasses, but now I can't look for anything if they're not on my face. I partly attribute my rapidly deteriorating eyesight to the amount of time I've spent reading fanfiction on my phone. Alas, it will never get better, as my area of research is fan studies. Although I will not be attending MDIA 200 this term, I will be marking some of your worksheets. You can email me at [mlinsley@uvic.ca](mailto:mlinsley@uvic.ca).
 # Materials 
 
 You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including [Brightspace](https://bright.uvic.ca/)), a camera, and a microphone. 
 
 *Handouts*: I produce my own handouts for this course and circulate them as PDFs in Brightspace. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a Media Studies textbook. 
 
-*Slide Decks*: I create HTML slide decks for most class sessions and link to them in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
+*Slide decks*: I create HTML slide decks for most class sessions and link to them in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
 
-*Source Materials*: My slide decks will often contain source materials or links to them. We'll discuss these sources in class to apply what you're learning from the weekly handouts. Examples of sources we'll study this term include the browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel; the comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine; and the stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett.
+*Source materials*: My slide decks and handouts contain source materials or links to them. We'll discuss these sources in class to apply what you're learning from the weekly handouts. Examples of primary sources we'll study this term include the browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel; the comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine; and the stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett.
 
-*Content Warnings*: I'll include content warnings for materials before I share or screen them in class. 
+*Content warnings*: I'll include content warnings for materials before I share or screen them in class. 
 
 *Recordings*: I do not plan to record our class sessions; however, you are welcome to record audio for private access, study, and note-taking.
  
 *Brightspace*: I'll use the course Brightspace to: 
 
 * Circulate a class announcement each week to help you plan for what's next,  
-* Share weekly handouts, my slides, and any primary sources we study in class,  
+* Share weekly handouts, my slides, and any source materials we study in class,  
 * Point you to resources available online, 
-* Accept all your assignments (please don't submit anything to me by email), and
-* Provide feedback on those assignments and mark them.
+* Accept all of your assignments except the exit tickets (please don't submit anything to me by email), and
+* Mark those assignments and provide feedback on them. 
 
 # Assignments
 
@@ -145,7 +143,7 @@ Before class, please read the following handouts:
 1. "Means of Communication" and  
 2. "Levels of Communication."
 
-*Please email me if you have any questions or concerns about Worksheet 1.* 
+*Please email me if you have any questions or concerns about Worksheet 1 or the exit tickets.*
 ## Th Jan. 15: Forms and Models of Communication
 
 Before class, please read the following handouts:  
@@ -200,9 +198,9 @@ Before class, please read the "Interfaces" handout.
 *Please email me if you have any questions or concerns about the feedback (global or individual) we provided on Worksheet 1.* 
 
 *Today is the last session covered by Worksheet 2, which is due by Monday, February 23rd at 10am.* 
-## MODULE 3: Approaches (ten sessions) 
+## MODULE 3: Approaches (eleven sessions) 
 
-This module begins on Thursday, February 12th and ends on Thursday, March 26th. 
+This module begins on Thursday, February 12th and ends on Monday, March 30th. 
 ## Th Feb. 12: Media Effects 
 
 Before class, please read the "Media Effects" handout. 
@@ -245,9 +243,9 @@ Before class, please read the "Narrative" handout.
 Before class, please read the "Fandom" handout.  
 
 *Today is the last session covered by Worksheet 3, which is due by Thursday, March 26th at 10am.*
-## M Mar. 23: Conferences
+## M Mar. 23: Conferences (no class)
 
-I will hold optional student conferences. Please contact me to schedule an appointment.
+I will hold optional student conferences. Please contact me to schedule an appointment if you would like to discuss your work in this course. I'm happy to chat!
 
 no exit ticket today
 ## Th Mar. 26: Preservation 
@@ -257,7 +255,7 @@ Before class, please read the "Preservation" handout.
 *Worksheet 3 is due today by 10am.*
 ## M Mar. 30: Before You Make a Thing 
 
-Before class, please read the "Before You Make a Thing" handout. 
+Before cla ss, please read the "Before You Make a Thing" handout. 
 
 no exit ticket today
 ## Th Apr. 2: Last Session! 
@@ -317,7 +315,7 @@ Here are the policies for this course alongside several UVic policies. Please le
 This course counts toward UVic's [Media Studies certificate](https://www.uvic.ca/calendar/future/undergrad/index.php#/programs/rJP4a8byi?bc=true&bcCurrent=Media%20Studies&bcItemType=programs). In fact, it's required for the certificate. 
 ### Office Hours and Contacting Me
 
-The best way to communicate with me is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Monday and Thursday, 11:45am-12:45pm in CLE D331. I can also make an appointment to meet with you in person or via Zoom. 
+The best way to communicate with me is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Monday and Thursday, 11:45am-12:45pm, in CLE D331. I can also make an appointment to meet with you in person or via Zoom. 
 
 I respond to email between 9am and 5pm, Monday through Friday, excluding holidays. 
 ### Assessment and Feedback
@@ -326,7 +324,7 @@ You must submit two of the three worksheets as well as the portfolio to pass thi
 
 Maya and I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. I will not post marks publicly or outside my office, and I do not use plagiarism or AI detection software.
 
-All assignments except for the exit tickets should be submitted via Brightspace. I cannot accept worksheets or the portfolio via email. Each exit ticket is due by the end of class (11:20am) on the day it's prompted. 
+All assignments except for the exit tickets should be submitted via Brightspace. I cannot accept the exit tickets, worksheets, or portfolio via email. Each exit ticket is due by the end of class (11:20am) on the day it's prompted. 
 
 Maya and I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. 
 
@@ -335,9 +333,9 @@ Throughout the term, I'll request feedback from you on how the course is going. 
 
 I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every worksheet in this course. A late penalty of five points per business day will apply after 24 hours. Weekends and holidays do not count as business days. 
 
-I will not accept worksheets more than two weeks after they are due and cannot accept the portfolio after Thursday, April 16th at 10am. 
+I cannot accept an exit ticket after the class session it was assigned, I will not accept worksheets more than two weeks after they are due, and I cannot accept the portfolio after Thursday, April 16th at 10am. 
 
-Please email me if you need an extension for any assignment, and we can discuss possibilities on a case-by-case basis.    
+Please email me if you need an extension for any assignment (before it is due), and we can discuss possibilities on a case-by-case basis.    
 ### Attendance and Participation
 
 There is no participation or attendance mark in this course; however, every class session will rely heavily on discussion and interaction. I will assume you are attending each class meeting. If you are unable to attend a particular meeting, then please email me in advance and coordinate with a peer to get notes and the like from the session(s) you'll miss. 
