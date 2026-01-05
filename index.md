@@ -284,7 +284,7 @@ Before class, please read the "Preservation" handout.
 
 ## M Mar. 30: Before You Make a Thing 
 
-Before cla ss, please read the "Before You Make a Thing" handout. 
+Before class, please read the "Before You Make a Thing" handout. 
 
 no exit ticket today
 
