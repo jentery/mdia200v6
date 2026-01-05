@@ -142,6 +142,8 @@ Before class, please read the following handouts:
 1. "Acts of Communication" and
 2. "Senses of Communication."
 
+Exit tickets begin today and end on Thursday, March 26th. 
+
 *Please email me if you have any trouble accessing my slide decks in Brightspace.* 
 
 ## M Jan. 12: Means and Levels of Communication
