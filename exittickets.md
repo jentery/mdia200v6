@@ -8,4 +8,42 @@
 
 # Exit Tickets 
 
-This assignment is coming soon. 
+Near the end of twenty different class sessions, I will ask you to use a notecard (which I will provide) to respond to two prompts. These prompts will ask you to share what you're learning from class sessions and the course material, what you hope to learn, and what questions you have. You should submit your responses and notecard to me as you exit the classroom. We'll call these notecards "exit tickets." 
+
+## Number of Tickets to Submit
+
+You should submit *a total of fourteen exit tickets* in response to the twenty I prompt this term. I cannot accept more than fourteen exit tickets per student. 
+
+## Format 
+
+As part of your exit ticket, please include the following information on the notecard I provide: 
+ 
+1. Your first name and surname 
+2. "MDIA200" 
+3. One written response on each side of the card (there will be two prompts)
+    
+## Assessment 
+
+Each submitted notecard is worth 10 points, and the exit ticket assignment (14 exit cards; 140 points) constitutes 10% of your final grade. 
+
+I will use the following rubric, based on [UVic's official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies), to assess each of your exit tickets. 
+
+* 9.0, 9.5, or 10 points: You responded to both questions; your responses referred explicitly to aspects of the course material (such as handouts, lectures, slides, and class discussions) and drew my attention to a way I could improve the course material and how I teach it
+* 8.0 or 8.5 points: You responded to both questions; your responses referred explicitly to aspects of the course material (such as handouts, lectures, slides, and class discussions)
+* 7.5 points: You responded to both questions; your responses referred implicitly or vaguely to aspects of the course material
+* 7.0 points: You responded to both questions 
+* 5.0, 5.5, or 6.0 points: You responded to one question; your response referred explicitly to aspects of the course material (such as handouts, lectures, slides, and class discussions) and drew my attention to a way I could improve the course material and how I teach it
+* 4.5 or 5.0 points: You responded to one question; your response referred explicitly to aspects of the course material (such as handouts, lectures, slides, and class discussions)
+* 4.0 points: You responded to one question; your response referred implicitly or vaguely to aspects of the course material
+* 3.5 points: You responded to one question 
+* 2.0 points: You submitted a notecard with your name and "MDIA200" but no responses on it
+
+## What to Submit and When to Submit It
+
+Please submit a notecard containing two responses, your first name and surname, and "MDIA200" before the end of class on the day prompted. 
+
+I cannot accept exit tickets via email or Brightspace. Thank you for understanding. 
+
+## Tracking Your Submissions and Marks 
+
+I will use the "Exit Tickets" assignment in Brightspace to track your fourteen submissions and share your marks for each exit ticket with you. Feedback on exit tickets will be available upon request. Please don't hesitate to ask for it. 
