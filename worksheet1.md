@@ -18,6 +18,8 @@ The worksheet is *open-book*, meaning you are allowed to use handouts, the cours
 
 You should [download the worksheet](mdia200v6Worksheet1.docx) (DOCX format) and complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
 
+Note that this page contains information (including information about how we'll assess your responses) that does *not* appear in the downloadable worksheet. We thus recommend reading this entire page before you start the assignment. 
+
 ## Format
 
 This open-book worksheet contains *five* prompts. You should respond to *four* of them. If you respond to all five, then we will mark the first four. 
