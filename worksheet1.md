@@ -82,7 +82,7 @@ We encourage you to cite the course handouts but do not expect you to do so unle
 
 *You do not need to meet the word count in each response to earn a high mark.* 
 
-I recommend using prose (paragraphs) rather than point form in your responses. Prose is more synthetic and will allow you to make connections.
+We recommend using prose (paragraphs) rather than point form in your responses. Prose is more synthetic and will allow you to make connections.
 
 We also recommend writing your responses from the first-person perspective. That point of view makes it easier for you to explain your decisions and share what you learned from each exercise. 
 
