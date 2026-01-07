@@ -48,13 +48,14 @@ We will use the following criteria to guide our assessment of your responses.
 
 The degree to which they: 
 
-* Address the prompt across writing and media practice, including the use of audio, images, and video. 
+* Address every aspect of the prompt.
+* Persuasively combine writing with media (including images, audio, text, and video). 
 * Engage and even enhance the course material.
-* Are supported by a convincing, if not compelling, use of detail and examples.  
+* Are supported by a convincing use of detail and examples.  
 * Apply terminology and concepts from class discussions, course handouts, lectures, and slides. 
-* Combine (where applicable) media theories and concepts with media practice. 
+* Integrate media theory with media practice. 
 * Communicate what you're learning from the prompted exercises. 
-* Communicate synthetically and make connections. 
+* Communicate synthetically and make connections across the course material. 
 
 We will use the following rubric, based on [UVic's official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies), to assess your responses. 
 
