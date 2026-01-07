@@ -48,7 +48,7 @@ We will use the following criteria to guide our assessment of your responses.
 
 The degree to which they: 
 
-* Address every aspect of the prompt.
+* Address each aspect of the prompt.
 * Persuasively combine writing with media (including images, audio, text, and video). 
 * Engage and even enhance the course material.
 * Are supported by a convincing use of detail and examples.  
@@ -70,7 +70,7 @@ The total of these points (0-100) will constitute 20% of your final mark in this
 
 12 points will be deducted from the overall mark if no references are included at the end of the worksheet (see "Citing Your Sources").
 
-5 points will be deducted from the overall mark if the references at the end of the worksheet are not formatted according to an established citation style (see "Citing Your Sources").
+8 points will be deducted from the overall mark if the references at the end of the worksheet are not formatted according to an established citation style (see "Citing Your Sources").
 
 5 points will be deducted for every source that's used in a response but is not included in the references section at the end of the worksheet (see "Citing Your Sources").
 
@@ -86,7 +86,7 @@ We recommend using prose (paragraphs) rather than point form in your responses. 
 
 We also recommend writing your responses from the first-person perspective. That point of view makes it easier for you to explain your decisions and share what you learned from each exercise. 
 
-You should also avoid repetition within responses and across them. We do not recommend writing about the same topic or theme in every response (e.g., four responses about video games, TikTok, or a particular fandom).
+You should avoid repetition within responses and across them. We do not recommend writing about the same topic or theme in every response (e.g., four responses about video games, TikTok, or a particular fandom).
 
 ## AI Tools 
 
