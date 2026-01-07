@@ -76,7 +76,7 @@ The total of these points (0-100) will constitute 20% of your final mark in this
 
 5 points will be deducted for every fabricated source used in the worksheet (see "Citing Your Sources").
 
-You are encouraged to cite the course handouts but are not required to do unless you quote or paraphrase them. See "Cite this Handout" at the end of every handout. 
+We encourage you to cite the course handouts but do not expect you to do so unless you quote or paraphrase them. See "Cite this Handout" at the end of every handout. 
 
 1 point will be deducted for every 25 words over the prescribed word count. 
 
