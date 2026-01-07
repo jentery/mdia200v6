@@ -86,11 +86,11 @@ We recommend using prose (paragraphs) rather than point form in your responses. 
 
 We also recommend writing your responses from the first-person perspective. That point of view makes it easier for you to explain your decisions and share what you learned from each exercise. 
 
-You should also avoid repetition within responses and across them. I do not recommend writing about the same topic or theme in every response (e.g., four responses about video games, TikTok, or a particular fandom).
+You should also avoid repetition within responses and across them. We do not recommend writing about the same topic or theme in every response (e.g., four responses about video games, TikTok, or a particular fandom).
 
 ## AI Tools 
 
-I do not recommend relying on generative AI or other AI tools to respond to this assignment. AI-generated responses tend to be generic, and they lack self-reflection, which is a key element of every prompt in this worksheet. AI results can also be biased and incorrect. It is your responsibility to ensure that the information you use from AI is accurate. You should also pay attention to the privacy of your data. Many AI tools will incorporate and use any content (including copyrighted materials, original work, and personal information) you upload, paste, or share with them. In short, relying on AI could create more work for you in the end, and it tends to hinder or “deskill” the learning process.
+We do not recommend relying on generative AI or other AI tools to respond to this assignment. AI-generated responses tend to be generic, and they lack self-reflection, which is a key element of every prompt in this worksheet. AI results can also be biased and incorrect. It is your responsibility to ensure that the information you use from AI is accurate. You should also pay attention to the privacy of your data. Many AI tools will incorporate and use any content (including copyrighted materials, original work, and personal information) you upload, paste, or share with them. In short, relying on AI could create more work for you in the end, and it tends to hinder or “deskill” the learning process.
 
 All sources, including AI tools, must be properly cited. (Language for this policy was drawn from language used at the [University of Washington](https://teaching.washington.edu/course-design/ai/sample-ai-syllabus-statements/).) 
 
@@ -104,6 +104,6 @@ Please submit a DOCX, ODT, PAGES, or PDF file containing your answers and refere
 
 ## When to Submit It
 
-A response to Worksheet 1 is due by 10am on Thursday, January 29th, but there is a 24-hour grace period. I will deduct five points for every business day I receive Worksheet 1 after 10am on Friday, January 30th. I will close the submission portal for Worksheet 1 at 10am on Thursday, February 12th, and cannot accept any submissions after the portal is closed. 
+A response to Worksheet 1 is due by 10am on Thursday, January 29th, but there is a 24-hour grace period. We will deduct five points for every business day we receive Worksheet 1 after 10am on Friday, January 30th. We will close the submission portal for Worksheet 1 at 10am on Thursday, February 12th, and cannot accept any submissions after the portal is closed. 
 
-I will not accept any submissions by email. Thanks for understanding. 
+We will not accept any submissions by email. Thanks for understanding. 
