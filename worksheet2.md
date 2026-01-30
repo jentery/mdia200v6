@@ -1,3 +1,9 @@
+---
+tags: []
+related:
+created: Friday, January 30th 2026, 3:01:10 pm
+modified: Friday, January 30th 2026, 3:47:53 pm
+---
 🏫 Media Studies 200: Intro to Media Studies  
 🎓 Intended for 60 undergraduate students  
 📆 Spring 2026 at the University of Victoria  
@@ -16,7 +22,7 @@ The worksheet is *open-book*, meaning you are allowed to use handouts, the cours
 
 ## Download the Worksheet 
 
-You should [download the worksheet](mdia200v6Worksheet2.docx) (DOCX format; COMING SOON) and complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
+You should [download the worksheet](mdia200v6Worksheet2.docx) (DOCX format) and complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
 
 Note that this webpage contains information (including information about how we'll assess your responses) that does *not* appear in the downloadable worksheet. We thus recommend reading this entire page before you start the assignment. 
 
@@ -30,13 +36,13 @@ Some prompts ask you to create media. Please attach your audio, image, or video 
 
 ## The Five Prompts (Select Four)
 
-**Prompt 1**. Use terminology from the ["Understanding Media,"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694718) ["Images,"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694723) and ["Comics"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694722) handouts to annotate one page or spread of a comic of your choice. Fill the margins and gutters of the comic with descriptions of what you see. Then use no more than 425 words to 1) say why you selected the comic, 2) explain how you organized the annotations, 3) share some critical decisions you made while making those annotations, and 4) tell us what you learned about the medium of images from this exercise. You're welcome to use software to annotate the page or spread, or you can print it and annotate it manually. Don't forget to attach the annotations to your submission as an image file.
+**Prompt 1**. Use terminology from the ["Understanding Media,"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694718) ["Images,"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694723) and ["Comics"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694722) handouts to annotate one page or spread of a comic of your choice. Fill the margins and gutters of the comic with descriptions of what you see. Then use no more than 425 words to 1) say why you selected the comic, 2) explain how you organized the annotations, 3) share some critical decisions you made while writing those annotations, and 4) tell us what you learned about the medium of images from this exercise. You're welcome to use software to annotate the page or spread, or you can print it and annotate it manually. Don't forget to attach the annotations to your submission as an image file.
 
-I recommend consulting [these examples](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694703) of how to annotate a comic. Note how most of them are colour-coded, include a legend, and place the comic on a larger canvas or piece of paper for the sake of annotation.
+We recommend consulting [these examples](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694703) of how to annotate a comic. Note how most of them are colour-coded, include a legend, and place the comic on a larger canvas or piece of paper for the sake of annotation.
 
 If you're new to comics and don't know where to begin, then you're welcome to annotate a page or spread of Adrian Tomine's ["Translated, From the Japanese"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694702) for this exercise. 
 
-**Prompt 2**. Identify some signage on campus or somewhere in Greater Victoria that uses text in a memorable way. Photograph the sign and attach that photo to your submission. Now imagine a typographical alteration you could make to the sign that would subtly adjust or refine its style and material connotation without dramatically altering its verbal and functional communication. (You should thus avoid any typographical modifications (like Wingdings) that would change the sign's language.) Next, use your preferred software to 1) transcribe the sign's text (all of its alphanumeric characters), 2) change its typeface and font, 3) export your new version of the sign as an image or text file, and 4) attach that file to your submission. For your final step, use no more than 425 words, including terminology from the ["Understanding Media"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694718) and ["Text"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694725) handouts, to tell us 1) which typeface you selected for the sign, 2) why you selected that typeface to replace the original one, 3) how the features of your new typeface subtly adjust or refine the sign's style and material connotation, 4) why those features avoid introducing any dramatic alterations to the sign's verbal and functional communication, and 5) what you learned about the medium of text from this exercise. Don't forget to include 1) a photograph of the original sign and 2) your modified version of it in your response. 
+**Prompt 2**. Identify some signage on campus or somewhere in Greater Victoria that uses text in a memorable way. Photograph the sign and attach that photo to your submission. Now imagine a typographical alteration you could make to that sign that would subtly adjust or refine its style and material connotation without dramatically altering its verbal and functional communication. (You should thus avoid any typographical modifications, such as Wingdings, that would change the sign's language.) Next, use your preferred software to 1) transcribe the sign's text (all of its alphanumeric characters), 2) change its typeface and font, 3) export your new version of the sign as an image or text file, and 4) attach that file to your submission. For your final step, use no more than 425 words, including terminology from the ["Understanding Media"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694718) and ["Text"](https://bright.uvic.ca/d2l/le/lessons/431416/topics/3694725) handouts, to tell us 1) which new typeface you selected for the sign, 2) why you selected that typeface to replace the original one, 3) how the features of your new typeface subtly adjust or refine the sign's style and material connotation, 4) how those features avoid introducing any dramatic alterations to the sign's verbal and functional communication, and 5) what you learned about the medium of text from this exercise. Don't forget to include 1) a photograph of the original sign and 2) your modified version of it in your response. 
 
 I recommend consulting [Typewolf](https://www.typewolf.com/recommendations), [Google Fonts](https://fonts.google.com/), or even [Wikipedia](https://en.wikipedia.org/wiki/List_of_typefaces) to learn more about typefaces during this exercise. 
 
