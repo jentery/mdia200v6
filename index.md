@@ -90,7 +90,7 @@ I am asking you to complete five assignments this term.
 * **[Worksheet 1](https://jentery.github.io/mdia200v6/worksheet1.html)**: 20% of your final grade (due by Thursday, January 29th at 10am)
 * **[Worksheet 2](https://jentery.github.io/mdia200v6/worksheet2.html)**: 20% of your final grade (due by Monday, February 23rd at 10am)
 * **[Worksheet 3](https://jentery.github.io/mdia200v6/worksheet3.html)**: 25% of your final grade (due by Thursday, March 26th at 10am)
-* **[Portfolio](https://jentery.github.io/mdia200v6/portfolio.html)**: 25% of your final grade (due by Monday, April 13th at 10am)
+* **[Portfolio](https://jentery.github.io/mdia200v6/portfolio.html)**: 25% of your final grade (due by Thursday, April 16th at 10am)
 
 *Exit tickets*: At the end of twenty different class sessions, I will ask you to use a notecard (which I will provide) to respond to two prompts. These prompts will ask you to share what you're learning from class sessions, what you hope to learn, and what questions you have. You will submit your responses (on the notecard) to me by the end of class. You should submit a total of fourteen exit tickets (meaning you don't need to submit one at the end of every class), and we will track your submissions in Brightspace. See the schedule below for sessions *without* an exit ticket. 
 
@@ -300,7 +300,7 @@ no exit ticket today
 
 *UVic is closed on April 3rd and 6th, and the exam period begins on April 7th.*
 
-## M Apr. 13: Portfolio 
+## Th Apr. 16: Portfolio 
 
 Please submit your portfolio by 10am today. I hope you've a wonderful summer! 
 
