@@ -6,7 +6,7 @@
 🗄️ Office hours: M and Th, 11:45am-12:45pm, in CLE D331   
 ✅ Teaching assistant (marking): Maya Wei Yan Linsley (she | any)
 
-# Portfolio (DRAFT) 
+# Portfolio
 
 This portfolio covers all material from MDIA 200. Your response is due via Brightspace by Thursday, April 16th at 10am, with a 24-hour grace period until Friday, April 17th at 10am.
 
